@@ -1,0 +1,22 @@
+[
+  {
+    "postalCode": "98118",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98118,Seattle,WA,United States",
+    "parentCountyCriteriaId": 1024419,
+    "subject": "real_estate",
+    "searchQueryBehavior": "platform_deep_link",
+    "routingDestination": "https://find-a-real-estate-agent-site.vercel.app/neighborhood.html?city=columbia-city&zip=98118",
+    "marketTier": "9257 51st Ave S Focus"
+  },
+  {
+    "postalCode": "98055",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98055,Renton,WA,United States",
+    "parentCountyCriteriaId": 1024419,
+    "subject": "real_estate",
+    "searchQueryBehavior": "platform_deep_link",
+    "routingDestination": "https://find-a-real-estate-agent-site.vercel.app/neighborhood.html?city=renton&zip=98055",
+    "marketTier": "Renton Core Tier"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "zipCode": "98118",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98118,Seattle,WA,United States",
+    "parentCountyCriteriaId": 1024419,
+    "marketTier": "9257 51st Ave S Focus",
+    "wordPressSite": "https://925751stavesthseattlewa98118.wordpress.com"
+  },
+  {
+    "zipCode": "98125",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98125,Seattle,WA,United States",
+    "parentCountyCriteriaId": 1024419,
+    "marketTier": "Urban Residential",
+    "wordPressSite": "https://seattlerealestate98125.wordpress.com"
+  },
+  {
+    "zipCode": "98126",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98126,Seattle,WA,United States",
+    "parentCountyCriteriaId": 1024419,
+    "marketTier": "Urban Residential",
+    "wordPressSite": "https://seattlerealestate98126.wordpress.com"
+  },
+  {
+    "zipCode": "98133",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98133,Seattle,WA,United States",
+    "parentCountyCriteriaId": 1024419,
+    "marketTier": "Suburban Transition",
+    "wordPressSite": "https://seattlerealestate98133.wordpress.com"
+  },
+  {
+    "zipCode": "98134",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98134,Seattle,WA,United States",
+    "parentCountyCriteriaId": 1024419,
+    "marketTier": "Commercial / High-Density",
+    "wordPressSite": "https://seattlerealestate98134.wordpress.com"
+  }
+]
